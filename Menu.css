@@ -1,0 +1,15 @@
+.card-title
+{
+    height: 10px;
+}
+
+img{
+    align-self: center;
+    height: 300px;
+    width: 300px;
+}
+
+.card{
+    margin: 20px;
+    border: black 2px solid;
+}
